@@ -1,4 +1,4 @@
-# ☕ The Daily Grind Cafe Website
+# FUTURE_FS_03 - ☕ The Daily Grind Cafe Website
 
 ## 📌 Project Overview
 
@@ -113,3 +113,4 @@ https://venkatpotturu.github.io/FUTURE_FS_03
 - Online payment system
 - Loyalty rewards
 - Admin dashboard
+
